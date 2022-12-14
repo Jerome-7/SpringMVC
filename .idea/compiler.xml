@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring_MVC_Joker5" />
+        <module name="Spring_MVC_Joker4" />
+        <module name="Spring_MVC_Joker7" />
+        <module name="Spring_MVC_Joker6" />
+        <module name="Spring_MVC_Joker1" />
+        <module name="Spring_MVC_Joker3" />
+        <module name="Spring_MVC_Joker2" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
